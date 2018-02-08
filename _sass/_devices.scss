@@ -6,11 +6,13 @@
 .device {
   position: relative;
   background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .device .app-screenshot {
-  position: absolute;
-  width: 240px;
+  width: 220px;
   height: auto;
 }
 
@@ -57,19 +59,4 @@
   top: 91px;
   left: 25px;
   width: 240px;
-}
-
-//
-// iPod Touch Blue Vertical
-//
-
-.device.ipod-touch-blue-vertical {
-  width: 291px;
-  height: 614px;
-  background-image: url(../../images/devices/ipod-touch-blue-vertical.png);
-}
-.device.ipod-touch-blue-vertical .app-screenshot {
-  top: 87px;
-  left: 23px;
-  width: 246px;
 }

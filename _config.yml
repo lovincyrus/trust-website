@@ -36,11 +36,6 @@ enable:
   app_icon: true
   smart_app_banner: true
 
-#
-# Device
-#
-device: iphone-se-silver-vertical # REQUIRED
-
 # Theme Settings
 background_color: "#2e91db" # Optional
 background_image: # Optional - Use Relative path e.g. images/backgrounds/image.jpg
