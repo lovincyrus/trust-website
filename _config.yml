@@ -17,7 +17,7 @@ permalink: /:title
 
 # Marketing
 marketing_header: # Optional
-marketing_desc: Trust - Secure wallet for Ethereum, ERC20 and ERC223 tokens.
+marketing_desc: Trust - is an extremely fast and secure Ethereum wallet built with ease of use in mind. We provide a fully security audited system that makes it simple to buy and store Ethereum and ERC20 tokens on your device. Available on Apple Store and Google Plays.
 
 # Social Links
 social-links:
@@ -47,7 +47,7 @@ download_button_text_color: white; # Optional
 
 # Site Info - specific meta
 title: Trust - Ethereum Wallet
-description: Trust - Secure wallet for Ethereum, ERC20 and ERC223 tokens.
+description: Trust - is an extremely fast and secure Ethereum wallet built with ease of use in mind. We provide a fully security audited system that makes it simple to buy and store Ethereum and ERC20 tokens on your device. Available on Apple Store and Google Plays.
 
 # Google Analytics
 google_analytics: UA-107603827-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
