@@ -9,7 +9,7 @@ app:
   name: Trust - Ethereum Wallet # REQUIRED - Enter your app name
   ios_id: 1288339409 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.wallet.crypto.trustapp
-  apk_link: v1.4.36
+  apk_link: https://drive.google.com/uc?authuser=0&id=132yVfIYAGBDDbJPO2dFh67ajsq0j5CPr&export=download
   icon: images/app-icon-512.png
 
 # Permalinks
